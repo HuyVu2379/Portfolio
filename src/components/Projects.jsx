@@ -69,8 +69,8 @@ const Projects = () => {
             desc: "Responsive portfolio website with dark mode and smooth animations",
             longDesc: "A modern, responsive portfolio website built with React and Tailwind CSS, featuring dark mode, smooth animations, and optimized performance.",
             tech: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
-            github: "https://github.com/yourrepo/portfolio",
-            website: "https://your-portfolio.com",
+            github: "https://github.com/HuyVu2379/Portfolio",
+            website: "https://porfolio-six-kappa.vercel.app",
             icon: Code,
             gradient: "from-orange-500 to-red-500"
         }

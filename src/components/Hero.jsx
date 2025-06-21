@@ -71,7 +71,7 @@ const Hero = () => {
                     className="flex justify-center space-x-6"
                 >
                     <a
-                        href="https://github.com"
+                        href="https://github.com/HuyVu2379"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="p-3 bg-white dark:bg-gray-800 rounded-full shadow-lg hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400"
@@ -79,7 +79,7 @@ const Hero = () => {
                         <Github className="h-6 w-6" />
                     </a>
                     <a
-                        href="https://linkedin.com"
+                        href="https://www.linkedin.com/in/huy-v%C5%A9-b34b4b35a"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="p-3 bg-white dark:bg-gray-800 rounded-full shadow-lg hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400"
